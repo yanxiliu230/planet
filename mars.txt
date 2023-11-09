@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is not planet Mars!
+=======
+This is planet Mars.
+>>>>>>> 55ee88842315fb09e4ac6dfe989cc93db424d399
